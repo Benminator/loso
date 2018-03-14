@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Loso - Simple, Clean and Responsive Website</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--Google fonts-->
+     <link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,600,600i,700,700i,800,900" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,600,600i,700,700i,800,900|Source+Sans+Pro:300,300i,400,400i,600i,700,900" rel="stylesheet">
+
+    <!-- favicon-->
+    <link rel="icon" type="image/png" href="images/favicon.png">
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css"
+
+  </head>
+  <body>
+
+    <!--header-->
+    <header class="header">
+
+      <div class="header-overlay">
+
+        <div class="container">
+
+          <div class="row">
+
+            <div class="col-md-12">
+
+              <!--logo-->
+              <div class="logo text-center">
+                <img src="images/logo.png" alt="logo">
+              </div>
+
+            </div>
+
+          </div>
+          <div class="row">
+            <div class="col-md-8">
+              <div class="header-text">
+                <!--Title & Description-->
+                <h1> A clean and modern looking reponsive website </h1>
+                <p> built with great love</p>
+              </div>
+              <div class="header-btns">
+                <!-- Header buttons-->
+                <a class="btn btn-download" href="#">Download</a>
+                <a class="btn btn-tour" href="#">Take a Tour
+                  <!--ERREUR ?-->
+                  <i class="fa fa-angle-down"></i>
+                </a>
+
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="header-iphone">
+              <!--Header iphone-->
+              <img src="images/iphone-header.png" alt="header iphone">
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </header>
+
+
+
+
+  </body>
+</html>
