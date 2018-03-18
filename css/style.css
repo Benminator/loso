@@ -96,7 +96,7 @@ p{
 
 /*================Header===========*/
 .header{
-  background-image:url("../images/header-bg.jpg");
+  background-image:url("../header-bg.jpg");
   background-attachement:fixed;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -260,7 +260,7 @@ border-radius:3px;
 /*==========Testimonials=============*/
 
 .testimonial {
-  background-image: url("../images/testimonial-bg.jpg");
+  background-image: url("../testimonial-bg.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -431,7 +431,7 @@ border-radius:3px;
 /*=========Counter=============*/
 
 .counter {
-  background-image: url("../images/counter-bg.jpg");
+  background-image: url("../counter-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
