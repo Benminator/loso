@@ -132,3 +132,15 @@ $(document).ready(function(){
 
   }, 10)
 });
+
+
+// Add bx slider to SCREENS
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+    slideWidht: 292.5,
+    auto: true,
+    minSlides: 1,
+    maxSlides: 3,
+    slideMargin: 50
+  });
+});
